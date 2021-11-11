@@ -22,7 +22,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     has_border: false
-    title: Bienvenid@
+    title: 'Bienvenid@a tu pagina '
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
