@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: 'Con nuestros inconfundible sabor de NUESTROS PAVOS '
     actions:
-      - label: Contact Me
+      - label: Menú
         url: /contact
         style: primary
     image: /images/maxresdefault (2).jpg
