@@ -3,10 +3,7 @@ title: Nuestros Pavos
 sections:
   - type: hero_section
     subtitle: 'Con nuestros inconfundible sabor de NUESTROS PAVOS '
-    actions:
-      - label: Nuestros menús
-        url: /contact
-        style: primary
+    actions: []
     image: /images/maxresdefault (2).jpg
     image_alt: A smiling woman
     media_position: right
