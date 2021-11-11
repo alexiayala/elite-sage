@@ -2,7 +2,7 @@
 title: Nuestros Pavos
 sections:
   - type: hero_section
-    subtitle: Con nuestros inconfundible sabor de N
+    subtitle: 'Con nuestros inconfundible sabor de NUESTROS PAVOS '
     actions:
       - label: Contact Me
         url: /contact
