@@ -18,6 +18,7 @@ sections:
     background_image_opacity: 8
     has_border: false
     title: Disfruta de esta navidad con tu familia
+    background_image_position: left center
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
