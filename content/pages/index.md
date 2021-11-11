@@ -11,7 +11,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     background_image: /images/imagen_2021-11-11_154621.png
     background_image_repeat: repeat
     background_image_size: contain
