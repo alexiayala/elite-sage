@@ -7,7 +7,7 @@ sections:
       - label: Menú
         url: /contact
         style: primary
-      - label: lorem-ipsum
+      - label: lorem-ipsu
         url: '#'
         style: link
         has_icon: false
