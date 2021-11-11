@@ -16,7 +16,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    has_border: false
+    has_border: true
     title: Disfruta de esta navidad con tu familia
     background_image_position: left center
   - type: grid_section
